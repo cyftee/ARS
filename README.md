@@ -14,3 +14,4 @@ None 2× (ML) / 4× (ML) via OpenCV dnn_superres (EDSR/ESPCN .pb models) 2× (fa
 jpg/jpeg/png/webp input/output; gif reads first frame and saves as GIF via Pillow. Every saved file gets a random name like: Cyftee_<6-12 letters/digits>. Originals are never overwritten.
 
   Author: Cyftee
+<img width="1024" height="1024" alt="3f7c119ac9da63d3c45b04bb137b83c8_neon" src="https://github.com/user-attachments/assets/4fd08cac-fabf-4644-9c01-1a269e0cf25b" />
